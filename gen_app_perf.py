@@ -3,12 +3,12 @@ import numpy as np
 import datetime
 import time
 
-# --- Configuration ---
+# --- Configuration: Outage Scenario ---
 START_TIME = datetime.datetime(2024, 11, 28, 0, 0, 0)
 END_TIME = datetime.datetime(2024, 11, 30, 23, 59, 0)
 INTERVAL_MINUTES = 5
-SLOWDOWN_START = datetime.datetime(2024, 11, 29, 14, 0, 0)
-SLOWDOWN_DURATION_MINUTES = 120
+SLOWDOWN_START = datetime.datetime(2024, 11, 29, 14, 0, 0)  # **Slowdown Start Time (Black Friday)** <-  **MODIFY THIS**
+SLOWDOWN_DURATION_MINUTES = 120  # **Slowdown Duration in Minutes** <-  **MODIFY THIS**
 ENDPOINTS = ['/product', '/cart', '/checkout', '/search']
 BASE_RESPONSE_TIME = 200
 OUTPUT_FILE = "prometheus_app_performance.txt"
@@ -27,7 +27,7 @@ for endpoint in ENDPOINTS:
         df_app[endpoint] * 3,  # Increase response time
         df_app[endpoint]
     )
-    df_app[endpoint] = df_app[endpoint].clip(lower=0).astype(int) # Corrected line
+    df_app[endpoint] = df_app[endpoint].clip(lower=0).astype(int)
     df_app[endpoint] = df_app[endpoint].astype(int)
 
 # --- Output to Prometheus format ---

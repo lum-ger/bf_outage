@@ -13,7 +13,7 @@ OUTAGE_DURATION_MINUTES = 60
 NORMAL_TRAFFIC_PEAK = 1000
 BLACK_FRIDAY_PEAK = 5000
 REVENUE_PER_REQUEST = 0.10
-OUTPUT_FILE = "traffic_revenue_grafana.json"  # Changed output file name
+OUTPUT_FILE = "traffic_revenue_grafana.json"
 
 # --- Time Series Creation ---
 time_range = pd.date_range(start=START_TIME, end=END_TIME, freq=f'{INTERVAL_MINUTES}min')
@@ -44,9 +44,10 @@ df['revenue'] = df['revenue'].clip(lower=0).astype(int)
 # --- Output to Grafana format (JSON) ---
 data_points = []
 for _, row in df.iterrows():
-    timestamp = int(row['timestamp'].timestamp())
+    # Convert timestamp to ISO 8601 format
+    iso_time = row['timestamp'].isoformat()
     data_points.append({
-        'time': timestamp,
+        'time': iso_time,
         'traffic': int(row['traffic']),
         'revenue': row['revenue']
     })

@@ -1,0 +1,4322 @@
+[
+  {
+    "time": 1732752000,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732752300,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732752600,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732752900,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732753200,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732753500,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732753800,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732754100,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732754400,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732754700,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732755000,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732755300,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732755600,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732755900,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732756200,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732756500,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732756800,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732757100,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732757400,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732757700,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732758000,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732758300,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732758600,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732758900,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732759200,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732759500,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732759800,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732760100,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732760400,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732760700,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732761000,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732761300,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732761600,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732761900,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732762200,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732762500,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732762800,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732763100,
+    "traffic": 11,
+    "revenue": 1
+  },
+  {
+    "time": 1732763400,
+    "traffic": 11,
+    "revenue": 1
+  },
+  {
+    "time": 1732763700,
+    "traffic": 11,
+    "revenue": 1
+  },
+  {
+    "time": 1732764000,
+    "traffic": 9,
+    "revenue": 0
+  },
+  {
+    "time": 1732764300,
+    "traffic": 11,
+    "revenue": 1
+  },
+  {
+    "time": 1732764600,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732764900,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732765200,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732765500,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732765800,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732766100,
+    "traffic": 9,
+    "revenue": 0
+  },
+  {
+    "time": 1732766400,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732766700,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732767000,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732767300,
+    "traffic": 16,
+    "revenue": 1
+  },
+  {
+    "time": 1732767600,
+    "traffic": 17,
+    "revenue": 1
+  },
+  {
+    "time": 1732767900,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732768200,
+    "traffic": 19,
+    "revenue": 1
+  },
+  {
+    "time": 1732768500,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732768800,
+    "traffic": 19,
+    "revenue": 1
+  },
+  {
+    "time": 1732769100,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732769400,
+    "traffic": 19,
+    "revenue": 1
+  },
+  {
+    "time": 1732769700,
+    "traffic": 19,
+    "revenue": 1
+  },
+  {
+    "time": 1732770000,
+    "traffic": 29,
+    "revenue": 2
+  },
+  {
+    "time": 1732770300,
+    "traffic": 35,
+    "revenue": 3
+  },
+  {
+    "time": 1732770600,
+    "traffic": 33,
+    "revenue": 3
+  },
+  {
+    "time": 1732770900,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732771200,
+    "traffic": 32,
+    "revenue": 3
+  },
+  {
+    "time": 1732771500,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732771800,
+    "traffic": 38,
+    "revenue": 3
+  },
+  {
+    "time": 1732772100,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732772400,
+    "traffic": 35,
+    "revenue": 3
+  },
+  {
+    "time": 1732772700,
+    "traffic": 31,
+    "revenue": 3
+  },
+  {
+    "time": 1732773000,
+    "traffic": 35,
+    "revenue": 3
+  },
+  {
+    "time": 1732773300,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732773600,
+    "traffic": 62,
+    "revenue": 6
+  },
+  {
+    "time": 1732773900,
+    "traffic": 65,
+    "revenue": 6
+  },
+  {
+    "time": 1732774200,
+    "traffic": 54,
+    "revenue": 5
+  },
+  {
+    "time": 1732774500,
+    "traffic": 69,
+    "revenue": 6
+  },
+  {
+    "time": 1732774800,
+    "traffic": 61,
+    "revenue": 6
+  },
+  {
+    "time": 1732775100,
+    "traffic": 53,
+    "revenue": 5
+  },
+  {
+    "time": 1732775400,
+    "traffic": 62,
+    "revenue": 6
+  },
+  {
+    "time": 1732775700,
+    "traffic": 58,
+    "revenue": 5
+  },
+  {
+    "time": 1732776000,
+    "traffic": 61,
+    "revenue": 6
+  },
+  {
+    "time": 1732776300,
+    "traffic": 60,
+    "revenue": 6
+  },
+  {
+    "time": 1732776600,
+    "traffic": 66,
+    "revenue": 6
+  },
+  {
+    "time": 1732776900,
+    "traffic": 56,
+    "revenue": 5
+  },
+  {
+    "time": 1732777200,
+    "traffic": 91,
+    "revenue": 9
+  },
+  {
+    "time": 1732777500,
+    "traffic": 87,
+    "revenue": 8
+  },
+  {
+    "time": 1732777800,
+    "traffic": 90,
+    "revenue": 9
+  },
+  {
+    "time": 1732778100,
+    "traffic": 74,
+    "revenue": 7
+  },
+  {
+    "time": 1732778400,
+    "traffic": 96,
+    "revenue": 9
+  },
+  {
+    "time": 1732778700,
+    "traffic": 80,
+    "revenue": 8
+  },
+  {
+    "time": 1732779000,
+    "traffic": 95,
+    "revenue": 9
+  },
+  {
+    "time": 1732779300,
+    "traffic": 86,
+    "revenue": 8
+  },
+  {
+    "time": 1732779600,
+    "traffic": 102,
+    "revenue": 10
+  },
+  {
+    "time": 1732779900,
+    "traffic": 87,
+    "revenue": 8
+  },
+  {
+    "time": 1732780200,
+    "traffic": 88,
+    "revenue": 8
+  },
+  {
+    "time": 1732780500,
+    "traffic": 84,
+    "revenue": 8
+  },
+  {
+    "time": 1732780800,
+    "traffic": 131,
+    "revenue": 13
+  },
+  {
+    "time": 1732781100,
+    "traffic": 146,
+    "revenue": 14
+  },
+  {
+    "time": 1732781400,
+    "traffic": 127,
+    "revenue": 12
+  },
+  {
+    "time": 1732781700,
+    "traffic": 118,
+    "revenue": 11
+  },
+  {
+    "time": 1732782000,
+    "traffic": 143,
+    "revenue": 14
+  },
+  {
+    "time": 1732782300,
+    "traffic": 147,
+    "revenue": 14
+  },
+  {
+    "time": 1732782600,
+    "traffic": 150,
+    "revenue": 15
+  },
+  {
+    "time": 1732782900,
+    "traffic": 154,
+    "revenue": 15
+  },
+  {
+    "time": 1732783200,
+    "traffic": 140,
+    "revenue": 14
+  },
+  {
+    "time": 1732783500,
+    "traffic": 137,
+    "revenue": 13
+  },
+  {
+    "time": 1732783800,
+    "traffic": 132,
+    "revenue": 13
+  },
+  {
+    "time": 1732784100,
+    "traffic": 135,
+    "revenue": 13
+  },
+  {
+    "time": 1732784400,
+    "traffic": 167,
+    "revenue": 16
+  },
+  {
+    "time": 1732784700,
+    "traffic": 193,
+    "revenue": 19
+  },
+  {
+    "time": 1732785000,
+    "traffic": 208,
+    "revenue": 20
+  },
+  {
+    "time": 1732785300,
+    "traffic": 175,
+    "revenue": 17
+  },
+  {
+    "time": 1732785600,
+    "traffic": 181,
+    "revenue": 18
+  },
+  {
+    "time": 1732785900,
+    "traffic": 233,
+    "revenue": 23
+  },
+  {
+    "time": 1732786200,
+    "traffic": 216,
+    "revenue": 21
+  },
+  {
+    "time": 1732786500,
+    "traffic": 204,
+    "revenue": 20
+  },
+  {
+    "time": 1732786800,
+    "traffic": 210,
+    "revenue": 21
+  },
+  {
+    "time": 1732787100,
+    "traffic": 197,
+    "revenue": 19
+  },
+  {
+    "time": 1732787400,
+    "traffic": 199,
+    "revenue": 19
+  },
+  {
+    "time": 1732787700,
+    "traffic": 224,
+    "revenue": 22
+  },
+  {
+    "time": 1732788000,
+    "traffic": 239,
+    "revenue": 23
+  },
+  {
+    "time": 1732788300,
+    "traffic": 286,
+    "revenue": 28
+  },
+  {
+    "time": 1732788600,
+    "traffic": 261,
+    "revenue": 26
+  },
+  {
+    "time": 1732788900,
+    "traffic": 267,
+    "revenue": 26
+  },
+  {
+    "time": 1732789200,
+    "traffic": 297,
+    "revenue": 29
+  },
+  {
+    "time": 1732789500,
+    "traffic": 312,
+    "revenue": 31
+  },
+  {
+    "time": 1732789800,
+    "traffic": 264,
+    "revenue": 26
+  },
+  {
+    "time": 1732790100,
+    "traffic": 282,
+    "revenue": 28
+  },
+  {
+    "time": 1732790400,
+    "traffic": 226,
+    "revenue": 22
+  },
+  {
+    "time": 1732790700,
+    "traffic": 301,
+    "revenue": 30
+  },
+  {
+    "time": 1732791000,
+    "traffic": 285,
+    "revenue": 28
+  },
+  {
+    "time": 1732791300,
+    "traffic": 260,
+    "revenue": 26
+  },
+  {
+    "time": 1732791600,
+    "traffic": 398,
+    "revenue": 39
+  },
+  {
+    "time": 1732791900,
+    "traffic": 340,
+    "revenue": 34
+  },
+  {
+    "time": 1732792200,
+    "traffic": 378,
+    "revenue": 37
+  },
+  {
+    "time": 1732792500,
+    "traffic": 419,
+    "revenue": 41
+  },
+  {
+    "time": 1732792800,
+    "traffic": 365,
+    "revenue": 36
+  },
+  {
+    "time": 1732793100,
+    "traffic": 354,
+    "revenue": 35
+  },
+  {
+    "time": 1732793400,
+    "traffic": 309,
+    "revenue": 30
+  },
+  {
+    "time": 1732793700,
+    "traffic": 398,
+    "revenue": 39
+  },
+  {
+    "time": 1732794000,
+    "traffic": 348,
+    "revenue": 34
+  },
+  {
+    "time": 1732794300,
+    "traffic": 336,
+    "revenue": 33
+  },
+  {
+    "time": 1732794600,
+    "traffic": 362,
+    "revenue": 36
+  },
+  {
+    "time": 1732794900,
+    "traffic": 360,
+    "revenue": 36
+  },
+  {
+    "time": 1732795200,
+    "traffic": 485,
+    "revenue": 48
+  },
+  {
+    "time": 1732795500,
+    "traffic": 503,
+    "revenue": 50
+  },
+  {
+    "time": 1732795800,
+    "traffic": 489,
+    "revenue": 48
+  },
+  {
+    "time": 1732796100,
+    "traffic": 444,
+    "revenue": 44
+  },
+  {
+    "time": 1732796400,
+    "traffic": 436,
+    "revenue": 43
+  },
+  {
+    "time": 1732796700,
+    "traffic": 461,
+    "revenue": 46
+  },
+  {
+    "time": 1732797000,
+    "traffic": 465,
+    "revenue": 46
+  },
+  {
+    "time": 1732797300,
+    "traffic": 432,
+    "revenue": 43
+  },
+  {
+    "time": 1732797600,
+    "traffic": 447,
+    "revenue": 44
+  },
+  {
+    "time": 1732797900,
+    "traffic": 518,
+    "revenue": 51
+  },
+  {
+    "time": 1732798200,
+    "traffic": 502,
+    "revenue": 50
+  },
+  {
+    "time": 1732798500,
+    "traffic": 476,
+    "revenue": 47
+  },
+  {
+    "time": 1732798800,
+    "traffic": 600,
+    "revenue": 60
+  },
+  {
+    "time": 1732799100,
+    "traffic": 614,
+    "revenue": 61
+  },
+  {
+    "time": 1732799400,
+    "traffic": 572,
+    "revenue": 57
+  },
+  {
+    "time": 1732799700,
+    "traffic": 639,
+    "revenue": 63
+  },
+  {
+    "time": 1732800000,
+    "traffic": 686,
+    "revenue": 68
+  },
+  {
+    "time": 1732800300,
+    "traffic": 748,
+    "revenue": 74
+  },
+  {
+    "time": 1732800600,
+    "traffic": 634,
+    "revenue": 63
+  },
+  {
+    "time": 1732800900,
+    "traffic": 570,
+    "revenue": 57
+  },
+  {
+    "time": 1732801200,
+    "traffic": 688,
+    "revenue": 68
+  },
+  {
+    "time": 1732801500,
+    "traffic": 562,
+    "revenue": 56
+  },
+  {
+    "time": 1732801800,
+    "traffic": 567,
+    "revenue": 56
+  },
+  {
+    "time": 1732802100,
+    "traffic": 573,
+    "revenue": 57
+  },
+  {
+    "time": 1732802400,
+    "traffic": 788,
+    "revenue": 78
+  },
+  {
+    "time": 1732802700,
+    "traffic": 737,
+    "revenue": 73
+  },
+  {
+    "time": 1732803000,
+    "traffic": 870,
+    "revenue": 87
+  },
+  {
+    "time": 1732803300,
+    "traffic": 809,
+    "revenue": 80
+  },
+  {
+    "time": 1732803600,
+    "traffic": 658,
+    "revenue": 65
+  },
+  {
+    "time": 1732803900,
+    "traffic": 646,
+    "revenue": 64
+  },
+  {
+    "time": 1732804200,
+    "traffic": 699,
+    "revenue": 69
+  },
+  {
+    "time": 1732804500,
+    "traffic": 671,
+    "revenue": 67
+  },
+  {
+    "time": 1732804800,
+    "traffic": 706,
+    "revenue": 70
+  },
+  {
+    "time": 1732805100,
+    "traffic": 687,
+    "revenue": 68
+  },
+  {
+    "time": 1732805400,
+    "traffic": 620,
+    "revenue": 62
+  },
+  {
+    "time": 1732805700,
+    "traffic": 658,
+    "revenue": 65
+  },
+  {
+    "time": 1732806000,
+    "traffic": 1030,
+    "revenue": 103
+  },
+  {
+    "time": 1732806300,
+    "traffic": 784,
+    "revenue": 78
+  },
+  {
+    "time": 1732806600,
+    "traffic": 829,
+    "revenue": 82
+  },
+  {
+    "time": 1732806900,
+    "traffic": 742,
+    "revenue": 74
+  },
+  {
+    "time": 1732807200,
+    "traffic": 807,
+    "revenue": 80
+  },
+  {
+    "time": 1732807500,
+    "traffic": 732,
+    "revenue": 73
+  },
+  {
+    "time": 1732807800,
+    "traffic": 724,
+    "revenue": 72
+  },
+  {
+    "time": 1732808100,
+    "traffic": 907,
+    "revenue": 90
+  },
+  {
+    "time": 1732808400,
+    "traffic": 858,
+    "revenue": 85
+  },
+  {
+    "time": 1732808700,
+    "traffic": 916,
+    "revenue": 91
+  },
+  {
+    "time": 1732809000,
+    "traffic": 828,
+    "revenue": 82
+  },
+  {
+    "time": 1732809300,
+    "traffic": 813,
+    "revenue": 81
+  },
+  {
+    "time": 1732809600,
+    "traffic": 991,
+    "revenue": 99
+  },
+  {
+    "time": 1732809900,
+    "traffic": 1001,
+    "revenue": 100
+  },
+  {
+    "time": 1732810200,
+    "traffic": 1035,
+    "revenue": 103
+  },
+  {
+    "time": 1732810500,
+    "traffic": 887,
+    "revenue": 88
+  },
+  {
+    "time": 1732810800,
+    "traffic": 880,
+    "revenue": 88
+  },
+  {
+    "time": 1732811100,
+    "traffic": 1175,
+    "revenue": 117
+  },
+  {
+    "time": 1732811400,
+    "traffic": 1079,
+    "revenue": 107
+  },
+  {
+    "time": 1732811700,
+    "traffic": 779,
+    "revenue": 77
+  },
+  {
+    "time": 1732812000,
+    "traffic": 1050,
+    "revenue": 105
+  },
+  {
+    "time": 1732812300,
+    "traffic": 905,
+    "revenue": 90
+  },
+  {
+    "time": 1732812600,
+    "traffic": 846,
+    "revenue": 84
+  },
+  {
+    "time": 1732812900,
+    "traffic": 1003,
+    "revenue": 100
+  },
+  {
+    "time": 1732813200,
+    "traffic": 938,
+    "revenue": 93
+  },
+  {
+    "time": 1732813500,
+    "traffic": 1029,
+    "revenue": 102
+  },
+  {
+    "time": 1732813800,
+    "traffic": 923,
+    "revenue": 92
+  },
+  {
+    "time": 1732814100,
+    "traffic": 1004,
+    "revenue": 100
+  },
+  {
+    "time": 1732814400,
+    "traffic": 922,
+    "revenue": 92
+  },
+  {
+    "time": 1732814700,
+    "traffic": 1042,
+    "revenue": 104
+  },
+  {
+    "time": 1732815000,
+    "traffic": 1029,
+    "revenue": 102
+  },
+  {
+    "time": 1732815300,
+    "traffic": 1073,
+    "revenue": 107
+  },
+  {
+    "time": 1732815600,
+    "traffic": 1184,
+    "revenue": 118
+  },
+  {
+    "time": 1732815900,
+    "traffic": 930,
+    "revenue": 93
+  },
+  {
+    "time": 1732816200,
+    "traffic": 999,
+    "revenue": 99
+  },
+  {
+    "time": 1732816500,
+    "traffic": 838,
+    "revenue": 83
+  },
+  {
+    "time": 1732816800,
+    "traffic": 1010,
+    "revenue": 101
+  },
+  {
+    "time": 1732817100,
+    "traffic": 920,
+    "revenue": 92
+  },
+  {
+    "time": 1732817400,
+    "traffic": 1116,
+    "revenue": 111
+  },
+  {
+    "time": 1732817700,
+    "traffic": 966,
+    "revenue": 96
+  },
+  {
+    "time": 1732818000,
+    "traffic": 734,
+    "revenue": 73
+  },
+  {
+    "time": 1732818300,
+    "traffic": 980,
+    "revenue": 98
+  },
+  {
+    "time": 1732818600,
+    "traffic": 928,
+    "revenue": 92
+  },
+  {
+    "time": 1732818900,
+    "traffic": 1082,
+    "revenue": 108
+  },
+  {
+    "time": 1732819200,
+    "traffic": 1156,
+    "revenue": 115
+  },
+  {
+    "time": 1732819500,
+    "traffic": 822,
+    "revenue": 82
+  },
+  {
+    "time": 1732819800,
+    "traffic": 1031,
+    "revenue": 103
+  },
+  {
+    "time": 1732820100,
+    "traffic": 1169,
+    "revenue": 116
+  },
+  {
+    "time": 1732820400,
+    "traffic": 918,
+    "revenue": 91
+  },
+  {
+    "time": 1732820700,
+    "traffic": 935,
+    "revenue": 93
+  },
+  {
+    "time": 1732821000,
+    "traffic": 987,
+    "revenue": 98
+  },
+  {
+    "time": 1732821300,
+    "traffic": 941,
+    "revenue": 94
+  },
+  {
+    "time": 1732821600,
+    "traffic": 1069,
+    "revenue": 106
+  },
+  {
+    "time": 1732821900,
+    "traffic": 864,
+    "revenue": 86
+  },
+  {
+    "time": 1732822200,
+    "traffic": 1005,
+    "revenue": 100
+  },
+  {
+    "time": 1732822500,
+    "traffic": 947,
+    "revenue": 94
+  },
+  {
+    "time": 1732822800,
+    "traffic": 878,
+    "revenue": 87
+  },
+  {
+    "time": 1732823100,
+    "traffic": 1023,
+    "revenue": 102
+  },
+  {
+    "time": 1732823400,
+    "traffic": 1049,
+    "revenue": 104
+  },
+  {
+    "time": 1732823700,
+    "traffic": 1244,
+    "revenue": 124
+  },
+  {
+    "time": 1732824000,
+    "traffic": 966,
+    "revenue": 96
+  },
+  {
+    "time": 1732824300,
+    "traffic": 852,
+    "revenue": 85
+  },
+  {
+    "time": 1732824600,
+    "traffic": 1082,
+    "revenue": 108
+  },
+  {
+    "time": 1732824900,
+    "traffic": 1087,
+    "revenue": 108
+  },
+  {
+    "time": 1732825200,
+    "traffic": 900,
+    "revenue": 90
+  },
+  {
+    "time": 1732825500,
+    "traffic": 750,
+    "revenue": 75
+  },
+  {
+    "time": 1732825800,
+    "traffic": 1043,
+    "revenue": 104
+  },
+  {
+    "time": 1732826100,
+    "traffic": 1018,
+    "revenue": 101
+  },
+  {
+    "time": 1732826400,
+    "traffic": 897,
+    "revenue": 89
+  },
+  {
+    "time": 1732826700,
+    "traffic": 1049,
+    "revenue": 104
+  },
+  {
+    "time": 1732827000,
+    "traffic": 920,
+    "revenue": 92
+  },
+  {
+    "time": 1732827300,
+    "traffic": 786,
+    "revenue": 78
+  },
+  {
+    "time": 1732827600,
+    "traffic": 771,
+    "revenue": 77
+  },
+  {
+    "time": 1732827900,
+    "traffic": 935,
+    "revenue": 93
+  },
+  {
+    "time": 1732828200,
+    "traffic": 806,
+    "revenue": 80
+  },
+  {
+    "time": 1732828500,
+    "traffic": 805,
+    "revenue": 80
+  },
+  {
+    "time": 1732828800,
+    "traffic": 934,
+    "revenue": 93
+  },
+  {
+    "time": 1732829100,
+    "traffic": 846,
+    "revenue": 84
+  },
+  {
+    "time": 1732829400,
+    "traffic": 802,
+    "revenue": 80
+  },
+  {
+    "time": 1732829700,
+    "traffic": 960,
+    "revenue": 96
+  },
+  {
+    "time": 1732830000,
+    "traffic": 847,
+    "revenue": 84
+  },
+  {
+    "time": 1732830300,
+    "traffic": 917,
+    "revenue": 91
+  },
+  {
+    "time": 1732830600,
+    "traffic": 836,
+    "revenue": 83
+  },
+  {
+    "time": 1732830900,
+    "traffic": 845,
+    "revenue": 84
+  },
+  {
+    "time": 1732831200,
+    "traffic": 677,
+    "revenue": 67
+  },
+  {
+    "time": 1732831500,
+    "traffic": 583,
+    "revenue": 58
+  },
+  {
+    "time": 1732831800,
+    "traffic": 856,
+    "revenue": 85
+  },
+  {
+    "time": 1732832100,
+    "traffic": 735,
+    "revenue": 73
+  },
+  {
+    "time": 1732832400,
+    "traffic": 653,
+    "revenue": 65
+  },
+  {
+    "time": 1732832700,
+    "traffic": 754,
+    "revenue": 75
+  },
+  {
+    "time": 1732833000,
+    "traffic": 752,
+    "revenue": 75
+  },
+  {
+    "time": 1732833300,
+    "traffic": 657,
+    "revenue": 65
+  },
+  {
+    "time": 1732833600,
+    "traffic": 810,
+    "revenue": 81
+  },
+  {
+    "time": 1732833900,
+    "traffic": 769,
+    "revenue": 76
+  },
+  {
+    "time": 1732834200,
+    "traffic": 682,
+    "revenue": 68
+  },
+  {
+    "time": 1732834500,
+    "traffic": 682,
+    "revenue": 68
+  },
+  {
+    "time": 1732834800,
+    "traffic": 635,
+    "revenue": 63
+  },
+  {
+    "time": 1732835100,
+    "traffic": 680,
+    "revenue": 68
+  },
+  {
+    "time": 1732835400,
+    "traffic": 582,
+    "revenue": 58
+  },
+  {
+    "time": 1732835700,
+    "traffic": 605,
+    "revenue": 60
+  },
+  {
+    "time": 1732836000,
+    "traffic": 555,
+    "revenue": 55
+  },
+  {
+    "time": 1732836300,
+    "traffic": 503,
+    "revenue": 50
+  },
+  {
+    "time": 1732836600,
+    "traffic": 614,
+    "revenue": 61
+  },
+  {
+    "time": 1732836900,
+    "traffic": 581,
+    "revenue": 58
+  },
+  {
+    "time": 1732837200,
+    "traffic": 625,
+    "revenue": 62
+  },
+  {
+    "time": 1732837500,
+    "traffic": 562,
+    "revenue": 56
+  },
+  {
+    "time": 1732837800,
+    "traffic": 632,
+    "revenue": 63
+  },
+  {
+    "time": 1732838100,
+    "traffic": 647,
+    "revenue": 64
+  },
+  {
+    "time": 1732838400,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732838700,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732839000,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732839300,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732839600,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732839900,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732840200,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732840500,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732840800,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732841100,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732841400,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732841700,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732842000,
+    "traffic": 16,
+    "revenue": 1
+  },
+  {
+    "time": 1732842300,
+    "traffic": 13,
+    "revenue": 1
+  },
+  {
+    "time": 1732842600,
+    "traffic": 13,
+    "revenue": 1
+  },
+  {
+    "time": 1732842900,
+    "traffic": 14,
+    "revenue": 1
+  },
+  {
+    "time": 1732843200,
+    "traffic": 19,
+    "revenue": 1
+  },
+  {
+    "time": 1732843500,
+    "traffic": 15,
+    "revenue": 1
+  },
+  {
+    "time": 1732843800,
+    "traffic": 14,
+    "revenue": 1
+  },
+  {
+    "time": 1732844100,
+    "traffic": 13,
+    "revenue": 1
+  },
+  {
+    "time": 1732844400,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732844700,
+    "traffic": 13,
+    "revenue": 1
+  },
+  {
+    "time": 1732845000,
+    "traffic": 14,
+    "revenue": 1
+  },
+  {
+    "time": 1732845300,
+    "traffic": 15,
+    "revenue": 1
+  },
+  {
+    "time": 1732845600,
+    "traffic": 25,
+    "revenue": 2
+  },
+  {
+    "time": 1732845900,
+    "traffic": 25,
+    "revenue": 2
+  },
+  {
+    "time": 1732846200,
+    "traffic": 23,
+    "revenue": 2
+  },
+  {
+    "time": 1732846500,
+    "traffic": 25,
+    "revenue": 2
+  },
+  {
+    "time": 1732846800,
+    "traffic": 24,
+    "revenue": 2
+  },
+  {
+    "time": 1732847100,
+    "traffic": 24,
+    "revenue": 2
+  },
+  {
+    "time": 1732847400,
+    "traffic": 23,
+    "revenue": 2
+  },
+  {
+    "time": 1732847700,
+    "traffic": 24,
+    "revenue": 2
+  },
+  {
+    "time": 1732848000,
+    "traffic": 31,
+    "revenue": 3
+  },
+  {
+    "time": 1732848300,
+    "traffic": 28,
+    "revenue": 2
+  },
+  {
+    "time": 1732848600,
+    "traffic": 23,
+    "revenue": 2
+  },
+  {
+    "time": 1732848900,
+    "traffic": 24,
+    "revenue": 2
+  },
+  {
+    "time": 1732849200,
+    "traffic": 51,
+    "revenue": 5
+  },
+  {
+    "time": 1732849500,
+    "traffic": 49,
+    "revenue": 4
+  },
+  {
+    "time": 1732849800,
+    "traffic": 59,
+    "revenue": 5
+  },
+  {
+    "time": 1732850100,
+    "traffic": 60,
+    "revenue": 6
+  },
+  {
+    "time": 1732850400,
+    "traffic": 47,
+    "revenue": 4
+  },
+  {
+    "time": 1732850700,
+    "traffic": 60,
+    "revenue": 6
+  },
+  {
+    "time": 1732851000,
+    "traffic": 54,
+    "revenue": 5
+  },
+  {
+    "time": 1732851300,
+    "traffic": 50,
+    "revenue": 5
+  },
+  {
+    "time": 1732851600,
+    "traffic": 59,
+    "revenue": 5
+  },
+  {
+    "time": 1732851900,
+    "traffic": 54,
+    "revenue": 5
+  },
+  {
+    "time": 1732852200,
+    "traffic": 60,
+    "revenue": 6
+  },
+  {
+    "time": 1732852500,
+    "traffic": 51,
+    "revenue": 5
+  },
+  {
+    "time": 1732852800,
+    "traffic": 97,
+    "revenue": 9
+  },
+  {
+    "time": 1732853100,
+    "traffic": 105,
+    "revenue": 10
+  },
+  {
+    "time": 1732853400,
+    "traffic": 104,
+    "revenue": 10
+  },
+  {
+    "time": 1732853700,
+    "traffic": 94,
+    "revenue": 9
+  },
+  {
+    "time": 1732854000,
+    "traffic": 97,
+    "revenue": 9
+  },
+  {
+    "time": 1732854300,
+    "traffic": 103,
+    "revenue": 10
+  },
+  {
+    "time": 1732854600,
+    "traffic": 91,
+    "revenue": 9
+  },
+  {
+    "time": 1732854900,
+    "traffic": 96,
+    "revenue": 9
+  },
+  {
+    "time": 1732855200,
+    "traffic": 91,
+    "revenue": 9
+  },
+  {
+    "time": 1732855500,
+    "traffic": 92,
+    "revenue": 9
+  },
+  {
+    "time": 1732855800,
+    "traffic": 122,
+    "revenue": 12
+  },
+  {
+    "time": 1732856100,
+    "traffic": 94,
+    "revenue": 9
+  },
+  {
+    "time": 1732856400,
+    "traffic": 184,
+    "revenue": 18
+  },
+  {
+    "time": 1732856700,
+    "traffic": 196,
+    "revenue": 19
+  },
+  {
+    "time": 1732857000,
+    "traffic": 173,
+    "revenue": 17
+  },
+  {
+    "time": 1732857300,
+    "traffic": 169,
+    "revenue": 16
+  },
+  {
+    "time": 1732857600,
+    "traffic": 179,
+    "revenue": 17
+  },
+  {
+    "time": 1732857900,
+    "traffic": 169,
+    "revenue": 16
+  },
+  {
+    "time": 1732858200,
+    "traffic": 153,
+    "revenue": 15
+  },
+  {
+    "time": 1732858500,
+    "traffic": 176,
+    "revenue": 17
+  },
+  {
+    "time": 1732858800,
+    "traffic": 183,
+    "revenue": 18
+  },
+  {
+    "time": 1732859100,
+    "traffic": 165,
+    "revenue": 16
+  },
+  {
+    "time": 1732859400,
+    "traffic": 159,
+    "revenue": 15
+  },
+  {
+    "time": 1732859700,
+    "traffic": 199,
+    "revenue": 19
+  },
+  {
+    "time": 1732860000,
+    "traffic": 245,
+    "revenue": 24
+  },
+  {
+    "time": 1732860300,
+    "traffic": 303,
+    "revenue": 30
+  },
+  {
+    "time": 1732860600,
+    "traffic": 233,
+    "revenue": 23
+  },
+  {
+    "time": 1732860900,
+    "traffic": 300,
+    "revenue": 30
+  },
+  {
+    "time": 1732861200,
+    "traffic": 287,
+    "revenue": 28
+  },
+  {
+    "time": 1732861500,
+    "traffic": 300,
+    "revenue": 30
+  },
+  {
+    "time": 1732861800,
+    "traffic": 279,
+    "revenue": 27
+  },
+  {
+    "time": 1732862100,
+    "traffic": 247,
+    "revenue": 24
+  },
+  {
+    "time": 1732862400,
+    "traffic": 297,
+    "revenue": 29
+  },
+  {
+    "time": 1732862700,
+    "traffic": 284,
+    "revenue": 28
+  },
+  {
+    "time": 1732863000,
+    "traffic": 301,
+    "revenue": 30
+  },
+  {
+    "time": 1732863300,
+    "traffic": 281,
+    "revenue": 28
+  },
+  {
+    "time": 1732863600,
+    "traffic": 429,
+    "revenue": 42
+  },
+  {
+    "time": 1732863900,
+    "traffic": 440,
+    "revenue": 44
+  },
+  {
+    "time": 1732864200,
+    "traffic": 387,
+    "revenue": 38
+  },
+  {
+    "time": 1732864500,
+    "traffic": 385,
+    "revenue": 38
+  },
+  {
+    "time": 1732864800,
+    "traffic": 411,
+    "revenue": 41
+  },
+  {
+    "time": 1732865100,
+    "traffic": 513,
+    "revenue": 51
+  },
+  {
+    "time": 1732865400,
+    "traffic": 441,
+    "revenue": 44
+  },
+  {
+    "time": 1732865700,
+    "traffic": 473,
+    "revenue": 47
+  },
+  {
+    "time": 1732866000,
+    "traffic": 499,
+    "revenue": 49
+  },
+  {
+    "time": 1732866300,
+    "traffic": 439,
+    "revenue": 43
+  },
+  {
+    "time": 1732866600,
+    "traffic": 451,
+    "revenue": 45
+  },
+  {
+    "time": 1732866900,
+    "traffic": 468,
+    "revenue": 46
+  },
+  {
+    "time": 1732867200,
+    "traffic": 731,
+    "revenue": 73
+  },
+  {
+    "time": 1732867500,
+    "traffic": 610,
+    "revenue": 61
+  },
+  {
+    "time": 1732867800,
+    "traffic": 772,
+    "revenue": 77
+  },
+  {
+    "time": 1732868100,
+    "traffic": 659,
+    "revenue": 65
+  },
+  {
+    "time": 1732868400,
+    "traffic": 657,
+    "revenue": 65
+  },
+  {
+    "time": 1732868700,
+    "traffic": 573,
+    "revenue": 57
+  },
+  {
+    "time": 1732869000,
+    "traffic": 654,
+    "revenue": 65
+  },
+  {
+    "time": 1732869300,
+    "traffic": 663,
+    "revenue": 66
+  },
+  {
+    "time": 1732869600,
+    "traffic": 773,
+    "revenue": 77
+  },
+  {
+    "time": 1732869900,
+    "traffic": 655,
+    "revenue": 65
+  },
+  {
+    "time": 1732870200,
+    "traffic": 757,
+    "revenue": 75
+  },
+  {
+    "time": 1732870500,
+    "traffic": 681,
+    "revenue": 68
+  },
+  {
+    "time": 1732870800,
+    "traffic": 885,
+    "revenue": 88
+  },
+  {
+    "time": 1732871100,
+    "traffic": 861,
+    "revenue": 86
+  },
+  {
+    "time": 1732871400,
+    "traffic": 871,
+    "revenue": 87
+  },
+  {
+    "time": 1732871700,
+    "traffic": 1000,
+    "revenue": 100
+  },
+  {
+    "time": 1732872000,
+    "traffic": 1159,
+    "revenue": 115
+  },
+  {
+    "time": 1732872300,
+    "traffic": 954,
+    "revenue": 95
+  },
+  {
+    "time": 1732872600,
+    "traffic": 1037,
+    "revenue": 103
+  },
+  {
+    "time": 1732872900,
+    "traffic": 895,
+    "revenue": 89
+  },
+  {
+    "time": 1732873200,
+    "traffic": 1027,
+    "revenue": 102
+  },
+  {
+    "time": 1732873500,
+    "traffic": 870,
+    "revenue": 87
+  },
+  {
+    "time": 1732873800,
+    "traffic": 852,
+    "revenue": 85
+  },
+  {
+    "time": 1732874100,
+    "traffic": 987,
+    "revenue": 98
+  },
+  {
+    "time": 1732874400,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732874700,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732875000,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732875300,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732875600,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732875900,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732876200,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732876500,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732876800,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732877100,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732877400,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732877700,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732878000,
+    "traffic": 1926,
+    "revenue": 192
+  },
+  {
+    "time": 1732878300,
+    "traffic": 1663,
+    "revenue": 166
+  },
+  {
+    "time": 1732878600,
+    "traffic": 1880,
+    "revenue": 188
+  },
+  {
+    "time": 1732878900,
+    "traffic": 1616,
+    "revenue": 161
+  },
+  {
+    "time": 1732879200,
+    "traffic": 1993,
+    "revenue": 199
+  },
+  {
+    "time": 1732879500,
+    "traffic": 1978,
+    "revenue": 197
+  },
+  {
+    "time": 1732879800,
+    "traffic": 1710,
+    "revenue": 171
+  },
+  {
+    "time": 1732880100,
+    "traffic": 2164,
+    "revenue": 216
+  },
+  {
+    "time": 1732880400,
+    "traffic": 1724,
+    "revenue": 172
+  },
+  {
+    "time": 1732880700,
+    "traffic": 2357,
+    "revenue": 235
+  },
+  {
+    "time": 1732881000,
+    "traffic": 1900,
+    "revenue": 190
+  },
+  {
+    "time": 1732881300,
+    "traffic": 2118,
+    "revenue": 211
+  },
+  {
+    "time": 1732881600,
+    "traffic": 2080,
+    "revenue": 208
+  },
+  {
+    "time": 1732881900,
+    "traffic": 2158,
+    "revenue": 215
+  },
+  {
+    "time": 1732882200,
+    "traffic": 2510,
+    "revenue": 251
+  },
+  {
+    "time": 1732882500,
+    "traffic": 2132,
+    "revenue": 213
+  },
+  {
+    "time": 1732882800,
+    "traffic": 2635,
+    "revenue": 263
+  },
+  {
+    "time": 1732883100,
+    "traffic": 2358,
+    "revenue": 235
+  },
+  {
+    "time": 1732883400,
+    "traffic": 2245,
+    "revenue": 224
+  },
+  {
+    "time": 1732883700,
+    "traffic": 2316,
+    "revenue": 231
+  },
+  {
+    "time": 1732884000,
+    "traffic": 2848,
+    "revenue": 284
+  },
+  {
+    "time": 1732884300,
+    "traffic": 2239,
+    "revenue": 223
+  },
+  {
+    "time": 1732884600,
+    "traffic": 2174,
+    "revenue": 217
+  },
+  {
+    "time": 1732884900,
+    "traffic": 2411,
+    "revenue": 241
+  },
+  {
+    "time": 1732885200,
+    "traffic": 3035,
+    "revenue": 303
+  },
+  {
+    "time": 1732885500,
+    "traffic": 3264,
+    "revenue": 326
+  },
+  {
+    "time": 1732885800,
+    "traffic": 2973,
+    "revenue": 297
+  },
+  {
+    "time": 1732886100,
+    "traffic": 2767,
+    "revenue": 276
+  },
+  {
+    "time": 1732886400,
+    "traffic": 2959,
+    "revenue": 295
+  },
+  {
+    "time": 1732886700,
+    "traffic": 2949,
+    "revenue": 294
+  },
+  {
+    "time": 1732887000,
+    "traffic": 2959,
+    "revenue": 295
+  },
+  {
+    "time": 1732887300,
+    "traffic": 3495,
+    "revenue": 349
+  },
+  {
+    "time": 1732887600,
+    "traffic": 3121,
+    "revenue": 312
+  },
+  {
+    "time": 1732887900,
+    "traffic": 2863,
+    "revenue": 286
+  },
+  {
+    "time": 1732888200,
+    "traffic": 3029,
+    "revenue": 302
+  },
+  {
+    "time": 1732888500,
+    "traffic": 3421,
+    "revenue": 342
+  },
+  {
+    "time": 1732888800,
+    "traffic": 3901,
+    "revenue": 390
+  },
+  {
+    "time": 1732889100,
+    "traffic": 3430,
+    "revenue": 343
+  },
+  {
+    "time": 1732889400,
+    "traffic": 4526,
+    "revenue": 452
+  },
+  {
+    "time": 1732889700,
+    "traffic": 3679,
+    "revenue": 367
+  },
+  {
+    "time": 1732890000,
+    "traffic": 3727,
+    "revenue": 372
+  },
+  {
+    "time": 1732890300,
+    "traffic": 3524,
+    "revenue": 352
+  },
+  {
+    "time": 1732890600,
+    "traffic": 3687,
+    "revenue": 368
+  },
+  {
+    "time": 1732890900,
+    "traffic": 3814,
+    "revenue": 381
+  },
+  {
+    "time": 1732891200,
+    "traffic": 3050,
+    "revenue": 305
+  },
+  {
+    "time": 1732891500,
+    "traffic": 3495,
+    "revenue": 349
+  },
+  {
+    "time": 1732891800,
+    "traffic": 3570,
+    "revenue": 357
+  },
+  {
+    "time": 1732892100,
+    "traffic": 3666,
+    "revenue": 366
+  },
+  {
+    "time": 1732892400,
+    "traffic": 3451,
+    "revenue": 345
+  },
+  {
+    "time": 1732892700,
+    "traffic": 4859,
+    "revenue": 485
+  },
+  {
+    "time": 1732893000,
+    "traffic": 3947,
+    "revenue": 394
+  },
+  {
+    "time": 1732893300,
+    "traffic": 3782,
+    "revenue": 378
+  },
+  {
+    "time": 1732893600,
+    "traffic": 4875,
+    "revenue": 487
+  },
+  {
+    "time": 1732893900,
+    "traffic": 4315,
+    "revenue": 431
+  },
+  {
+    "time": 1732894200,
+    "traffic": 4413,
+    "revenue": 441
+  },
+  {
+    "time": 1732894500,
+    "traffic": 4301,
+    "revenue": 430
+  },
+  {
+    "time": 1732894800,
+    "traffic": 4212,
+    "revenue": 421
+  },
+  {
+    "time": 1732895100,
+    "traffic": 4046,
+    "revenue": 404
+  },
+  {
+    "time": 1732895400,
+    "traffic": 3996,
+    "revenue": 399
+  },
+  {
+    "time": 1732895700,
+    "traffic": 3731,
+    "revenue": 373
+  },
+  {
+    "time": 1732896000,
+    "traffic": 5457,
+    "revenue": 545
+  },
+  {
+    "time": 1732896300,
+    "traffic": 4900,
+    "revenue": 490
+  },
+  {
+    "time": 1732896600,
+    "traffic": 5079,
+    "revenue": 507
+  },
+  {
+    "time": 1732896900,
+    "traffic": 4649,
+    "revenue": 464
+  },
+  {
+    "time": 1732897200,
+    "traffic": 4477,
+    "revenue": 447
+  },
+  {
+    "time": 1732897500,
+    "traffic": 4097,
+    "revenue": 409
+  },
+  {
+    "time": 1732897800,
+    "traffic": 4257,
+    "revenue": 425
+  },
+  {
+    "time": 1732898100,
+    "traffic": 4725,
+    "revenue": 472
+  },
+  {
+    "time": 1732898400,
+    "traffic": 4550,
+    "revenue": 455
+  },
+  {
+    "time": 1732898700,
+    "traffic": 4812,
+    "revenue": 481
+  },
+  {
+    "time": 1732899000,
+    "traffic": 4312,
+    "revenue": 431
+  },
+  {
+    "time": 1732899300,
+    "traffic": 4224,
+    "revenue": 422
+  },
+  {
+    "time": 1732899600,
+    "traffic": 5227,
+    "revenue": 522
+  },
+  {
+    "time": 1732899900,
+    "traffic": 5207,
+    "revenue": 520
+  },
+  {
+    "time": 1732900200,
+    "traffic": 5127,
+    "revenue": 512
+  },
+  {
+    "time": 1732900500,
+    "traffic": 5148,
+    "revenue": 514
+  },
+  {
+    "time": 1732900800,
+    "traffic": 4505,
+    "revenue": 450
+  },
+  {
+    "time": 1732901100,
+    "traffic": 5167,
+    "revenue": 516
+  },
+  {
+    "time": 1732901400,
+    "traffic": 4512,
+    "revenue": 451
+  },
+  {
+    "time": 1732901700,
+    "traffic": 4793,
+    "revenue": 479
+  },
+  {
+    "time": 1732902000,
+    "traffic": 5307,
+    "revenue": 530
+  },
+  {
+    "time": 1732902300,
+    "traffic": 5394,
+    "revenue": 539
+  },
+  {
+    "time": 1732902600,
+    "traffic": 4509,
+    "revenue": 450
+  },
+  {
+    "time": 1732902900,
+    "traffic": 4989,
+    "revenue": 498
+  },
+  {
+    "time": 1732903200,
+    "traffic": 5172,
+    "revenue": 517
+  },
+  {
+    "time": 1732903500,
+    "traffic": 4858,
+    "revenue": 485
+  },
+  {
+    "time": 1732903800,
+    "traffic": 4566,
+    "revenue": 456
+  },
+  {
+    "time": 1732904100,
+    "traffic": 4815,
+    "revenue": 481
+  },
+  {
+    "time": 1732904400,
+    "traffic": 5339,
+    "revenue": 533
+  },
+  {
+    "time": 1732904700,
+    "traffic": 5398,
+    "revenue": 539
+  },
+  {
+    "time": 1732905000,
+    "traffic": 5156,
+    "revenue": 515
+  },
+  {
+    "time": 1732905300,
+    "traffic": 5626,
+    "revenue": 562
+  },
+  {
+    "time": 1732905600,
+    "traffic": 4813,
+    "revenue": 481
+  },
+  {
+    "time": 1732905900,
+    "traffic": 5500,
+    "revenue": 550
+  },
+  {
+    "time": 1732906200,
+    "traffic": 4280,
+    "revenue": 428
+  },
+  {
+    "time": 1732906500,
+    "traffic": 5495,
+    "revenue": 549
+  },
+  {
+    "time": 1732906800,
+    "traffic": 4473,
+    "revenue": 447
+  },
+  {
+    "time": 1732907100,
+    "traffic": 4617,
+    "revenue": 461
+  },
+  {
+    "time": 1732907400,
+    "traffic": 5707,
+    "revenue": 570
+  },
+  {
+    "time": 1732907700,
+    "traffic": 4823,
+    "revenue": 482
+  },
+  {
+    "time": 1732908000,
+    "traffic": 4335,
+    "revenue": 433
+  },
+  {
+    "time": 1732908300,
+    "traffic": 4911,
+    "revenue": 491
+  },
+  {
+    "time": 1732908600,
+    "traffic": 5441,
+    "revenue": 544
+  },
+  {
+    "time": 1732908900,
+    "traffic": 5709,
+    "revenue": 570
+  },
+  {
+    "time": 1732909200,
+    "traffic": 4508,
+    "revenue": 450
+  },
+  {
+    "time": 1732909500,
+    "traffic": 4902,
+    "revenue": 490
+  },
+  {
+    "time": 1732909800,
+    "traffic": 4258,
+    "revenue": 425
+  },
+  {
+    "time": 1732910100,
+    "traffic": 4284,
+    "revenue": 428
+  },
+  {
+    "time": 1732910400,
+    "traffic": 4341,
+    "revenue": 434
+  },
+  {
+    "time": 1732910700,
+    "traffic": 4371,
+    "revenue": 437
+  },
+  {
+    "time": 1732911000,
+    "traffic": 5264,
+    "revenue": 526
+  },
+  {
+    "time": 1732911300,
+    "traffic": 4273,
+    "revenue": 427
+  },
+  {
+    "time": 1732911600,
+    "traffic": 4452,
+    "revenue": 445
+  },
+  {
+    "time": 1732911900,
+    "traffic": 4211,
+    "revenue": 421
+  },
+  {
+    "time": 1732912200,
+    "traffic": 4425,
+    "revenue": 442
+  },
+  {
+    "time": 1732912500,
+    "traffic": 4889,
+    "revenue": 488
+  },
+  {
+    "time": 1732912800,
+    "traffic": 4644,
+    "revenue": 464
+  },
+  {
+    "time": 1732913100,
+    "traffic": 4188,
+    "revenue": 418
+  },
+  {
+    "time": 1732913400,
+    "traffic": 4230,
+    "revenue": 423
+  },
+  {
+    "time": 1732913700,
+    "traffic": 4508,
+    "revenue": 450
+  },
+  {
+    "time": 1732914000,
+    "traffic": 3609,
+    "revenue": 360
+  },
+  {
+    "time": 1732914300,
+    "traffic": 3296,
+    "revenue": 329
+  },
+  {
+    "time": 1732914600,
+    "traffic": 4508,
+    "revenue": 450
+  },
+  {
+    "time": 1732914900,
+    "traffic": 4837,
+    "revenue": 483
+  },
+  {
+    "time": 1732915200,
+    "traffic": 4032,
+    "revenue": 403
+  },
+  {
+    "time": 1732915500,
+    "traffic": 4667,
+    "revenue": 466
+  },
+  {
+    "time": 1732915800,
+    "traffic": 4132,
+    "revenue": 413
+  },
+  {
+    "time": 1732916100,
+    "traffic": 4490,
+    "revenue": 449
+  },
+  {
+    "time": 1732916400,
+    "traffic": 4458,
+    "revenue": 445
+  },
+  {
+    "time": 1732916700,
+    "traffic": 3470,
+    "revenue": 347
+  },
+  {
+    "time": 1732917000,
+    "traffic": 3711,
+    "revenue": 371
+  },
+  {
+    "time": 1732917300,
+    "traffic": 4255,
+    "revenue": 425
+  },
+  {
+    "time": 1732917600,
+    "traffic": 2700,
+    "revenue": 270
+  },
+  {
+    "time": 1732917900,
+    "traffic": 3615,
+    "revenue": 361
+  },
+  {
+    "time": 1732918200,
+    "traffic": 3908,
+    "revenue": 390
+  },
+  {
+    "time": 1732918500,
+    "traffic": 3626,
+    "revenue": 362
+  },
+  {
+    "time": 1732918800,
+    "traffic": 3481,
+    "revenue": 348
+  },
+  {
+    "time": 1732919100,
+    "traffic": 3392,
+    "revenue": 339
+  },
+  {
+    "time": 1732919400,
+    "traffic": 3561,
+    "revenue": 356
+  },
+  {
+    "time": 1732919700,
+    "traffic": 4041,
+    "revenue": 404
+  },
+  {
+    "time": 1732920000,
+    "traffic": 3727,
+    "revenue": 372
+  },
+  {
+    "time": 1732920300,
+    "traffic": 3277,
+    "revenue": 327
+  },
+  {
+    "time": 1732920600,
+    "traffic": 3950,
+    "revenue": 395
+  },
+  {
+    "time": 1732920900,
+    "traffic": 3283,
+    "revenue": 328
+  },
+  {
+    "time": 1732921200,
+    "traffic": 2445,
+    "revenue": 244
+  },
+  {
+    "time": 1732921500,
+    "traffic": 3222,
+    "revenue": 322
+  },
+  {
+    "time": 1732921800,
+    "traffic": 2860,
+    "revenue": 286
+  },
+  {
+    "time": 1732922100,
+    "traffic": 3200,
+    "revenue": 320
+  },
+  {
+    "time": 1732922400,
+    "traffic": 2549,
+    "revenue": 254
+  },
+  {
+    "time": 1732922700,
+    "traffic": 2493,
+    "revenue": 249
+  },
+  {
+    "time": 1732923000,
+    "traffic": 3010,
+    "revenue": 301
+  },
+  {
+    "time": 1732923300,
+    "traffic": 3478,
+    "revenue": 347
+  },
+  {
+    "time": 1732923600,
+    "traffic": 2797,
+    "revenue": 279
+  },
+  {
+    "time": 1732923900,
+    "traffic": 3539,
+    "revenue": 353
+  },
+  {
+    "time": 1732924200,
+    "traffic": 3478,
+    "revenue": 347
+  },
+  {
+    "time": 1732924500,
+    "traffic": 2654,
+    "revenue": 265
+  },
+  {
+    "time": 1732924800,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732925100,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732925400,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732925700,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732926000,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732926300,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732926600,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732926900,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732927200,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732927500,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732927800,
+    "traffic": 0,
+    "revenue": 0
+  },
+  {
+    "time": 1732928100,
+    "traffic": 1,
+    "revenue": 0
+  },
+  {
+    "time": 1732928400,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732928700,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732929000,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732929300,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732929600,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732929900,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732930200,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732930500,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732930800,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732931100,
+    "traffic": 2,
+    "revenue": 0
+  },
+  {
+    "time": 1732931400,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732931700,
+    "traffic": 3,
+    "revenue": 0
+  },
+  {
+    "time": 1732932000,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732932300,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732932600,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732932900,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732933200,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732933500,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732933800,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732934100,
+    "traffic": 5,
+    "revenue": 0
+  },
+  {
+    "time": 1732934400,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732934700,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732935000,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732935300,
+    "traffic": 4,
+    "revenue": 0
+  },
+  {
+    "time": 1732935600,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732935900,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732936200,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732936500,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732936800,
+    "traffic": 13,
+    "revenue": 1
+  },
+  {
+    "time": 1732937100,
+    "traffic": 11,
+    "revenue": 1
+  },
+  {
+    "time": 1732937400,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732937700,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732938000,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732938300,
+    "traffic": 12,
+    "revenue": 1
+  },
+  {
+    "time": 1732938600,
+    "traffic": 10,
+    "revenue": 1
+  },
+  {
+    "time": 1732938900,
+    "traffic": 9,
+    "revenue": 0
+  },
+  {
+    "time": 1732939200,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732939500,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732939800,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732940100,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732940400,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732940700,
+    "traffic": 17,
+    "revenue": 1
+  },
+  {
+    "time": 1732941000,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732941300,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732941600,
+    "traffic": 20,
+    "revenue": 2
+  },
+  {
+    "time": 1732941900,
+    "traffic": 16,
+    "revenue": 1
+  },
+  {
+    "time": 1732942200,
+    "traffic": 18,
+    "revenue": 1
+  },
+  {
+    "time": 1732942500,
+    "traffic": 16,
+    "revenue": 1
+  },
+  {
+    "time": 1732942800,
+    "traffic": 39,
+    "revenue": 3
+  },
+  {
+    "time": 1732943100,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732943400,
+    "traffic": 37,
+    "revenue": 3
+  },
+  {
+    "time": 1732943700,
+    "traffic": 32,
+    "revenue": 3
+  },
+  {
+    "time": 1732944000,
+    "traffic": 35,
+    "revenue": 3
+  },
+  {
+    "time": 1732944300,
+    "traffic": 28,
+    "revenue": 2
+  },
+  {
+    "time": 1732944600,
+    "traffic": 39,
+    "revenue": 3
+  },
+  {
+    "time": 1732944900,
+    "traffic": 37,
+    "revenue": 3
+  },
+  {
+    "time": 1732945200,
+    "traffic": 39,
+    "revenue": 3
+  },
+  {
+    "time": 1732945500,
+    "traffic": 34,
+    "revenue": 3
+  },
+  {
+    "time": 1732945800,
+    "traffic": 35,
+    "revenue": 3
+  },
+  {
+    "time": 1732946100,
+    "traffic": 37,
+    "revenue": 3
+  },
+  {
+    "time": 1732946400,
+    "traffic": 55,
+    "revenue": 5
+  },
+  {
+    "time": 1732946700,
+    "traffic": 50,
+    "revenue": 5
+  },
+  {
+    "time": 1732947000,
+    "traffic": 51,
+    "revenue": 5
+  },
+  {
+    "time": 1732947300,
+    "traffic": 49,
+    "revenue": 4
+  },
+  {
+    "time": 1732947600,
+    "traffic": 56,
+    "revenue": 5
+  },
+  {
+    "time": 1732947900,
+    "traffic": 59,
+    "revenue": 5
+  },
+  {
+    "time": 1732948200,
+    "traffic": 55,
+    "revenue": 5
+  },
+  {
+    "time": 1732948500,
+    "traffic": 69,
+    "revenue": 6
+  },
+  {
+    "time": 1732948800,
+    "traffic": 46,
+    "revenue": 4
+  },
+  {
+    "time": 1732949100,
+    "traffic": 48,
+    "revenue": 4
+  },
+  {
+    "time": 1732949400,
+    "traffic": 57,
+    "revenue": 5
+  },
+  {
+    "time": 1732949700,
+    "traffic": 59,
+    "revenue": 5
+  },
+  {
+    "time": 1732950000,
+    "traffic": 83,
+    "revenue": 8
+  },
+  {
+    "time": 1732950300,
+    "traffic": 86,
+    "revenue": 8
+  },
+  {
+    "time": 1732950600,
+    "traffic": 98,
+    "revenue": 9
+  },
+  {
+    "time": 1732950900,
+    "traffic": 75,
+    "revenue": 7
+  },
+  {
+    "time": 1732951200,
+    "traffic": 90,
+    "revenue": 9
+  },
+  {
+    "time": 1732951500,
+    "traffic": 85,
+    "revenue": 8
+  },
+  {
+    "time": 1732951800,
+    "traffic": 87,
+    "revenue": 8
+  },
+  {
+    "time": 1732952100,
+    "traffic": 74,
+    "revenue": 7
+  },
+  {
+    "time": 1732952400,
+    "traffic": 65,
+    "revenue": 6
+  },
+  {
+    "time": 1732952700,
+    "traffic": 94,
+    "revenue": 9
+  },
+  {
+    "time": 1732953000,
+    "traffic": 102,
+    "revenue": 10
+  },
+  {
+    "time": 1732953300,
+    "traffic": 91,
+    "revenue": 9
+  },
+  {
+    "time": 1732953600,
+    "traffic": 126,
+    "revenue": 12
+  },
+  {
+    "time": 1732953900,
+    "traffic": 122,
+    "revenue": 12
+  },
+  {
+    "time": 1732954200,
+    "traffic": 175,
+    "revenue": 17
+  },
+  {
+    "time": 1732954500,
+    "traffic": 129,
+    "revenue": 12
+  },
+  {
+    "time": 1732954800,
+    "traffic": 152,
+    "revenue": 15
+  },
+  {
+    "time": 1732955100,
+    "traffic": 139,
+    "revenue": 13
+  },
+  {
+    "time": 1732955400,
+    "traffic": 134,
+    "revenue": 13
+  },
+  {
+    "time": 1732955700,
+    "traffic": 126,
+    "revenue": 12
+  },
+  {
+    "time": 1732956000,
+    "traffic": 110,
+    "revenue": 11
+  },
+  {
+    "time": 1732956300,
+    "traffic": 139,
+    "revenue": 13
+  },
+  {
+    "time": 1732956600,
+    "traffic": 112,
+    "revenue": 11
+  },
+  {
+    "time": 1732956900,
+    "traffic": 124,
+    "revenue": 12
+  },
+  {
+    "time": 1732957200,
+    "traffic": 204,
+    "revenue": 20
+  },
+  {
+    "time": 1732957500,
+    "traffic": 199,
+    "revenue": 19
+  },
+  {
+    "time": 1732957800,
+    "traffic": 224,
+    "revenue": 22
+  },
+  {
+    "time": 1732958100,
+    "traffic": 187,
+    "revenue": 18
+  },
+  {
+    "time": 1732958400,
+    "traffic": 177,
+    "revenue": 17
+  },
+  {
+    "time": 1732958700,
+    "traffic": 140,
+    "revenue": 14
+  },
+  {
+    "time": 1732959000,
+    "traffic": 172,
+    "revenue": 17
+  },
+  {
+    "time": 1732959300,
+    "traffic": 196,
+    "revenue": 19
+  },
+  {
+    "time": 1732959600,
+    "traffic": 175,
+    "revenue": 17
+  },
+  {
+    "time": 1732959900,
+    "traffic": 220,
+    "revenue": 22
+  },
+  {
+    "time": 1732960200,
+    "traffic": 192,
+    "revenue": 19
+  },
+  {
+    "time": 1732960500,
+    "traffic": 200,
+    "revenue": 20
+  },
+  {
+    "time": 1732960800,
+    "traffic": 307,
+    "revenue": 30
+  },
+  {
+    "time": 1732961100,
+    "traffic": 255,
+    "revenue": 25
+  },
+  {
+    "time": 1732961400,
+    "traffic": 327,
+    "revenue": 32
+  },
+  {
+    "time": 1732961700,
+    "traffic": 250,
+    "revenue": 25
+  },
+  {
+    "time": 1732962000,
+    "traffic": 241,
+    "revenue": 24
+  },
+  {
+    "time": 1732962300,
+    "traffic": 268,
+    "revenue": 26
+  },
+  {
+    "time": 1732962600,
+    "traffic": 277,
+    "revenue": 27
+  },
+  {
+    "time": 1732962900,
+    "traffic": 267,
+    "revenue": 26
+  },
+  {
+    "time": 1732963200,
+    "traffic": 291,
+    "revenue": 29
+  },
+  {
+    "time": 1732963500,
+    "traffic": 257,
+    "revenue": 25
+  },
+  {
+    "time": 1732963800,
+    "traffic": 303,
+    "revenue": 30
+  },
+  {
+    "time": 1732964100,
+    "traffic": 291,
+    "revenue": 29
+  },
+  {
+    "time": 1732964400,
+    "traffic": 473,
+    "revenue": 47
+  },
+  {
+    "time": 1732964700,
+    "traffic": 421,
+    "revenue": 42
+  },
+  {
+    "time": 1732965000,
+    "traffic": 415,
+    "revenue": 41
+  },
+  {
+    "time": 1732965300,
+    "traffic": 372,
+    "revenue": 37
+  },
+  {
+    "time": 1732965600,
+    "traffic": 399,
+    "revenue": 39
+  },
+  {
+    "time": 1732965900,
+    "traffic": 363,
+    "revenue": 36
+  },
+  {
+    "time": 1732966200,
+    "traffic": 354,
+    "revenue": 35
+  },
+  {
+    "time": 1732966500,
+    "traffic": 353,
+    "revenue": 35
+  },
+  {
+    "time": 1732966800,
+    "traffic": 399,
+    "revenue": 39
+  },
+  {
+    "time": 1732967100,
+    "traffic": 397,
+    "revenue": 39
+  },
+  {
+    "time": 1732967400,
+    "traffic": 392,
+    "revenue": 39
+  },
+  {
+    "time": 1732967700,
+    "traffic": 412,
+    "revenue": 41
+  },
+  {
+    "time": 1732968000,
+    "traffic": 456,
+    "revenue": 45
+  },
+  {
+    "time": 1732968300,
+    "traffic": 432,
+    "revenue": 43
+  },
+  {
+    "time": 1732968600,
+    "traffic": 470,
+    "revenue": 47
+  },
+  {
+    "time": 1732968900,
+    "traffic": 519,
+    "revenue": 51
+  },
+  {
+    "time": 1732969200,
+    "traffic": 458,
+    "revenue": 45
+  },
+  {
+    "time": 1732969500,
+    "traffic": 501,
+    "revenue": 50
+  },
+  {
+    "time": 1732969800,
+    "traffic": 517,
+    "revenue": 51
+  },
+  {
+    "time": 1732970100,
+    "traffic": 527,
+    "revenue": 52
+  },
+  {
+    "time": 1732970400,
+    "traffic": 413,
+    "revenue": 41
+  },
+  {
+    "time": 1732970700,
+    "traffic": 449,
+    "revenue": 44
+  },
+  {
+    "time": 1732971000,
+    "traffic": 417,
+    "revenue": 41
+  },
+  {
+    "time": 1732971300,
+    "traffic": 492,
+    "revenue": 49
+  },
+  {
+    "time": 1732971600,
+    "traffic": 665,
+    "revenue": 66
+  },
+  {
+    "time": 1732971900,
+    "traffic": 588,
+    "revenue": 58
+  },
+  {
+    "time": 1732972200,
+    "traffic": 638,
+    "revenue": 63
+  },
+  {
+    "time": 1732972500,
+    "traffic": 546,
+    "revenue": 54
+  },
+  {
+    "time": 1732972800,
+    "traffic": 665,
+    "revenue": 66
+  },
+  {
+    "time": 1732973100,
+    "traffic": 590,
+    "revenue": 59
+  },
+  {
+    "time": 1732973400,
+    "traffic": 550,
+    "revenue": 55
+  },
+  {
+    "time": 1732973700,
+    "traffic": 636,
+    "revenue": 63
+  },
+  {
+    "time": 1732974000,
+    "traffic": 525,
+    "revenue": 52
+  },
+  {
+    "time": 1732974300,
+    "traffic": 715,
+    "revenue": 71
+  },
+  {
+    "time": 1732974600,
+    "traffic": 694,
+    "revenue": 69
+  },
+  {
+    "time": 1732974900,
+    "traffic": 677,
+    "revenue": 67
+  },
+  {
+    "time": 1732975200,
+    "traffic": 830,
+    "revenue": 83
+  },
+  {
+    "time": 1732975500,
+    "traffic": 789,
+    "revenue": 78
+  },
+  {
+    "time": 1732975800,
+    "traffic": 801,
+    "revenue": 80
+  },
+  {
+    "time": 1732976100,
+    "traffic": 715,
+    "revenue": 71
+  },
+  {
+    "time": 1732976400,
+    "traffic": 734,
+    "revenue": 73
+  },
+  {
+    "time": 1732976700,
+    "traffic": 666,
+    "revenue": 66
+  },
+  {
+    "time": 1732977000,
+    "traffic": 887,
+    "revenue": 88
+  },
+  {
+    "time": 1732977300,
+    "traffic": 666,
+    "revenue": 66
+  },
+  {
+    "time": 1732977600,
+    "traffic": 663,
+    "revenue": 66
+  },
+  {
+    "time": 1732977900,
+    "traffic": 789,
+    "revenue": 78
+  },
+  {
+    "time": 1732978200,
+    "traffic": 832,
+    "revenue": 83
+  },
+  {
+    "time": 1732978500,
+    "traffic": 734,
+    "revenue": 73
+  },
+  {
+    "time": 1732978800,
+    "traffic": 893,
+    "revenue": 89
+  },
+  {
+    "time": 1732979100,
+    "traffic": 768,
+    "revenue": 76
+  },
+  {
+    "time": 1732979400,
+    "traffic": 901,
+    "revenue": 90
+  },
+  {
+    "time": 1732979700,
+    "traffic": 781,
+    "revenue": 78
+  },
+  {
+    "time": 1732980000,
+    "traffic": 876,
+    "revenue": 87
+  },
+  {
+    "time": 1732980300,
+    "traffic": 896,
+    "revenue": 89
+  },
+  {
+    "time": 1732980600,
+    "traffic": 816,
+    "revenue": 81
+  },
+  {
+    "time": 1732980900,
+    "traffic": 940,
+    "revenue": 94
+  },
+  {
+    "time": 1732981200,
+    "traffic": 785,
+    "revenue": 78
+  },
+  {
+    "time": 1732981500,
+    "traffic": 838,
+    "revenue": 83
+  },
+  {
+    "time": 1732981800,
+    "traffic": 891,
+    "revenue": 89
+  },
+  {
+    "time": 1732982100,
+    "traffic": 707,
+    "revenue": 70
+  },
+  {
+    "time": 1732982400,
+    "traffic": 882,
+    "revenue": 88
+  },
+  {
+    "time": 1732982700,
+    "traffic": 1016,
+    "revenue": 101
+  },
+  {
+    "time": 1732983000,
+    "traffic": 973,
+    "revenue": 97
+  },
+  {
+    "time": 1732983300,
+    "traffic": 1025,
+    "revenue": 102
+  },
+  {
+    "time": 1732983600,
+    "traffic": 985,
+    "revenue": 98
+  },
+  {
+    "time": 1732983900,
+    "traffic": 1111,
+    "revenue": 111
+  },
+  {
+    "time": 1732984200,
+    "traffic": 950,
+    "revenue": 95
+  },
+  {
+    "time": 1732984500,
+    "traffic": 954,
+    "revenue": 95
+  },
+  {
+    "time": 1732984800,
+    "traffic": 1026,
+    "revenue": 102
+  },
+  {
+    "time": 1732985100,
+    "traffic": 937,
+    "revenue": 93
+  },
+  {
+    "time": 1732985400,
+    "traffic": 899,
+    "revenue": 89
+  },
+  {
+    "time": 1732985700,
+    "traffic": 942,
+    "revenue": 94
+  },
+  {
+    "time": 1732986000,
+    "traffic": 979,
+    "revenue": 97
+  },
+  {
+    "time": 1732986300,
+    "traffic": 776,
+    "revenue": 77
+  },
+  {
+    "time": 1732986600,
+    "traffic": 1093,
+    "revenue": 109
+  },
+  {
+    "time": 1732986900,
+    "traffic": 1013,
+    "revenue": 101
+  },
+  {
+    "time": 1732987200,
+    "traffic": 1029,
+    "revenue": 102
+  },
+  {
+    "time": 1732987500,
+    "traffic": 1044,
+    "revenue": 104
+  },
+  {
+    "time": 1732987800,
+    "traffic": 996,
+    "revenue": 99
+  },
+  {
+    "time": 1732988100,
+    "traffic": 866,
+    "revenue": 86
+  },
+  {
+    "time": 1732988400,
+    "traffic": 960,
+    "revenue": 96
+  },
+  {
+    "time": 1732988700,
+    "traffic": 952,
+    "revenue": 95
+  },
+  {
+    "time": 1732989000,
+    "traffic": 1141,
+    "revenue": 114
+  },
+  {
+    "time": 1732989300,
+    "traffic": 1103,
+    "revenue": 110
+  },
+  {
+    "time": 1732989600,
+    "traffic": 999,
+    "revenue": 99
+  },
+  {
+    "time": 1732989900,
+    "traffic": 1180,
+    "revenue": 118
+  },
+  {
+    "time": 1732990200,
+    "traffic": 819,
+    "revenue": 81
+  },
+  {
+    "time": 1732990500,
+    "traffic": 1084,
+    "revenue": 108
+  },
+  {
+    "time": 1732990800,
+    "traffic": 953,
+    "revenue": 95
+  },
+  {
+    "time": 1732991100,
+    "traffic": 1068,
+    "revenue": 106
+  },
+  {
+    "time": 1732991400,
+    "traffic": 990,
+    "revenue": 99
+  },
+  {
+    "time": 1732991700,
+    "traffic": 1097,
+    "revenue": 109
+  },
+  {
+    "time": 1732992000,
+    "traffic": 935,
+    "revenue": 93
+  },
+  {
+    "time": 1732992300,
+    "traffic": 1016,
+    "revenue": 101
+  },
+  {
+    "time": 1732992600,
+    "traffic": 820,
+    "revenue": 82
+  },
+  {
+    "time": 1732992900,
+    "traffic": 953,
+    "revenue": 95
+  },
+  {
+    "time": 1732993200,
+    "traffic": 983,
+    "revenue": 98
+  },
+  {
+    "time": 1732993500,
+    "traffic": 989,
+    "revenue": 98
+  },
+  {
+    "time": 1732993800,
+    "traffic": 1023,
+    "revenue": 102
+  },
+  {
+    "time": 1732994100,
+    "traffic": 793,
+    "revenue": 79
+  },
+  {
+    "time": 1732994400,
+    "traffic": 946,
+    "revenue": 94
+  },
+  {
+    "time": 1732994700,
+    "traffic": 931,
+    "revenue": 93
+  },
+  {
+    "time": 1732995000,
+    "traffic": 896,
+    "revenue": 89
+  },
+  {
+    "time": 1732995300,
+    "traffic": 1073,
+    "revenue": 107
+  },
+  {
+    "time": 1732995600,
+    "traffic": 1013,
+    "revenue": 101
+  },
+  {
+    "time": 1732995900,
+    "traffic": 911,
+    "revenue": 91
+  },
+  {
+    "time": 1732996200,
+    "traffic": 1156,
+    "revenue": 115
+  },
+  {
+    "time": 1732996500,
+    "traffic": 964,
+    "revenue": 96
+  },
+  {
+    "time": 1732996800,
+    "traffic": 748,
+    "revenue": 74
+  },
+  {
+    "time": 1732997100,
+    "traffic": 918,
+    "revenue": 91
+  },
+  {
+    "time": 1732997400,
+    "traffic": 979,
+    "revenue": 97
+  },
+  {
+    "time": 1732997700,
+    "traffic": 811,
+    "revenue": 81
+  },
+  {
+    "time": 1732998000,
+    "traffic": 942,
+    "revenue": 94
+  },
+  {
+    "time": 1732998300,
+    "traffic": 943,
+    "revenue": 94
+  },
+  {
+    "time": 1732998600,
+    "traffic": 871,
+    "revenue": 87
+  },
+  {
+    "time": 1732998900,
+    "traffic": 796,
+    "revenue": 79
+  },
+  {
+    "time": 1732999200,
+    "traffic": 830,
+    "revenue": 83
+  },
+  {
+    "time": 1732999500,
+    "traffic": 904,
+    "revenue": 90
+  },
+  {
+    "time": 1732999800,
+    "traffic": 918,
+    "revenue": 91
+  },
+  {
+    "time": 1733000100,
+    "traffic": 909,
+    "revenue": 90
+  },
+  {
+    "time": 1733000400,
+    "traffic": 744,
+    "revenue": 74
+  },
+  {
+    "time": 1733000700,
+    "traffic": 837,
+    "revenue": 83
+  },
+  {
+    "time": 1733001000,
+    "traffic": 884,
+    "revenue": 88
+  },
+  {
+    "time": 1733001300,
+    "traffic": 799,
+    "revenue": 79
+  },
+  {
+    "time": 1733001600,
+    "traffic": 836,
+    "revenue": 83
+  },
+  {
+    "time": 1733001900,
+    "traffic": 918,
+    "revenue": 91
+  },
+  {
+    "time": 1733002200,
+    "traffic": 857,
+    "revenue": 85
+  },
+  {
+    "time": 1733002500,
+    "traffic": 850,
+    "revenue": 85
+  },
+  {
+    "time": 1733002800,
+    "traffic": 847,
+    "revenue": 84
+  },
+  {
+    "time": 1733003100,
+    "traffic": 823,
+    "revenue": 82
+  },
+  {
+    "time": 1733003400,
+    "traffic": 934,
+    "revenue": 93
+  },
+  {
+    "time": 1733003700,
+    "traffic": 835,
+    "revenue": 83
+  },
+  {
+    "time": 1733004000,
+    "traffic": 743,
+    "revenue": 74
+  },
+  {
+    "time": 1733004300,
+    "traffic": 777,
+    "revenue": 77
+  },
+  {
+    "time": 1733004600,
+    "traffic": 748,
+    "revenue": 74
+  },
+  {
+    "time": 1733004900,
+    "traffic": 616,
+    "revenue": 61
+  },
+  {
+    "time": 1733005200,
+    "traffic": 646,
+    "revenue": 64
+  },
+  {
+    "time": 1733005500,
+    "traffic": 679,
+    "revenue": 67
+  },
+  {
+    "time": 1733005800,
+    "traffic": 711,
+    "revenue": 71
+  },
+  {
+    "time": 1733006100,
+    "traffic": 769,
+    "revenue": 76
+  },
+  {
+    "time": 1733006400,
+    "traffic": 785,
+    "revenue": 78
+  },
+  {
+    "time": 1733006700,
+    "traffic": 706,
+    "revenue": 70
+  },
+  {
+    "time": 1733007000,
+    "traffic": 603,
+    "revenue": 60
+  },
+  {
+    "time": 1733007300,
+    "traffic": 745,
+    "revenue": 74
+  },
+  {
+    "time": 1733007600,
+    "traffic": 582,
+    "revenue": 58
+  },
+  {
+    "time": 1733007900,
+    "traffic": 616,
+    "revenue": 61
+  },
+  {
+    "time": 1733008200,
+    "traffic": 660,
+    "revenue": 66
+  },
+  {
+    "time": 1733008500,
+    "traffic": 547,
+    "revenue": 54
+  },
+  {
+    "time": 1733008800,
+    "traffic": 502,
+    "revenue": 50
+  },
+  {
+    "time": 1733009100,
+    "traffic": 608,
+    "revenue": 60
+  },
+  {
+    "time": 1733009400,
+    "traffic": 609,
+    "revenue": 60
+  },
+  {
+    "time": 1733009700,
+    "traffic": 559,
+    "revenue": 55
+  },
+  {
+    "time": 1733010000,
+    "traffic": 596,
+    "revenue": 59
+  },
+  {
+    "time": 1733010300,
+    "traffic": 610,
+    "revenue": 61
+  },
+  {
+    "time": 1733010600,
+    "traffic": 674,
+    "revenue": 67
+  },
+  {
+    "time": 1733010900,
+    "traffic": 626,
+    "revenue": 62
+  }
+]

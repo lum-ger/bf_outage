@@ -13,7 +13,7 @@ OUTAGE_DURATION_MINUTES = 60
 NORMAL_TRAFFIC_PEAK = 1000
 BLACK_FRIDAY_PEAK = 5000
 REVENUE_PER_REQUEST = 0.10
-OUTPUT_FILE = "traffic_revenue_targets.json"  # Changed output file name
+OUTPUT_FILE = "traffic_revenue_grafana.json"  # Changed output file name
 
 # --- Time Series Creation ---
 time_range = pd.date_range(start=START_TIME, end=END_TIME, freq=f'{INTERVAL_MINUTES}min')
@@ -41,19 +41,17 @@ df['traffic'] = df['traffic'].clip(lower=0).astype(int)
 df['revenue'] = df['traffic'] * REVENUE_PER_REQUEST
 df['revenue'] = df['revenue'].clip(lower=0).astype(int)
 
-# --- Output to Prometheus format (JSON for file_sd) ---
-targets = [{
-    'targets': ['dummy_host'],  # We don't really have a host, so we use a dummy
-    'labels': {}
-}]
-metrics = []
+# --- Output to Grafana format (JSON) ---
+data_points = []
 for _, row in df.iterrows():
     timestamp = int(row['timestamp'].timestamp())
-    metrics.append(f"website_traffic {{timestamp=\"{timestamp}\"}} {row['traffic']}")
-    metrics.append(f"website_revenue {{timestamp=\"{timestamp}\"}} {row['revenue']}")
-targets[0]['labels']['__meta_static_metrics'] = '\n'.join(metrics)  # Join metrics with newlines
+    data_points.append({
+        'time': timestamp,
+        'traffic': int(row['traffic']),
+        'revenue': row['revenue']
+    })
 
 with open(OUTPUT_FILE, "w") as f:
-    json.dump([targets[0]], f, indent=2)  # Write the JSON
+    json.dump(data_points, f, indent=2)
 
-print(f"Prometheus data written to {OUTPUT_FILE}")
+print(f"Grafana-friendly data written to {OUTPUT_FILE}")

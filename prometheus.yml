@@ -1,0 +1,12 @@
+global:
+  scrape_interval: 5m  # How often Prometheus collects metrics
+  evaluation_interval: 5m # How often Prometheus evaluates rules
+
+scrape_configs:
+  - job_name: 'static_metrics'
+    file_sd_configs:
+      - files:
+          - 'traffic_revenue_targets.json' # Path to your JSON file
+          - 'app_performance_targets.json'
+          - 'server_metrics_targets.json'
+        refresh_interval: 5m # How often Prometheus re-reads the file
